@@ -1,0 +1,8 @@
+echo "sizeof int: ", sizeof(int)
+echo "sizeof cint: ", sizeof(cint)
+echo "sizeof cshort: ", sizeof(cshort)
+echo "sizeof clong: ", sizeof(clong)
+echo "sizeof float: ", sizeof(float)
+echo "sizeof cfloat: ", sizeof(cfloat)
+echo "sizeof cdouble: ", sizeof(cdouble)
+echo "sizeof clongdouble: ", sizeof(clongdouble)
